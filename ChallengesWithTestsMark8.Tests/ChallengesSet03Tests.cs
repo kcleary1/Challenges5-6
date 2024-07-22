@@ -188,7 +188,7 @@ namespace ChallengesWithTestsMark8.Tests
         }
 
         [Fact]
-        public void ShouldGetOddsBelow100()
+        public void GetOddsBelow100()
         {
             // Arrange
             ChallengesSet03 challenger = new ChallengesSet03();
